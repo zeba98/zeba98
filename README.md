@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zeba
+- 👀 I’m interested in Python , Machine learning 
+- 🌱 I’m currently learning Chatbot development
+- 📫 How to reach me by mail 
